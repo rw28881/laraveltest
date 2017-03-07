@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Welcome you have arrived! Laravel This is an update
+                    Welcome you have arrived! Laravel Changed again
                 </div>
 
                 <div class="links">
